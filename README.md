@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsarkar404" alt="kunalsarkar404" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kunalsa91770964" target="blank"><img src="https://img.shields.io/twitter/follow/kunalsa91770964?logo=twitter&style=for-the-badge" alt="kunalsa91770964" /></a> </p>
+<p align="left"> <a href="https://x.com/KunalCodeQuest" target="blank"><img src="https://img.shields.io/twitter/follow/KunalCodeQuest?logo=twitter&style=for-the-badge" alt="KunalCodeQuest" /></a> </p>
 
 - 🔭 I’m currently working on **Open-Source Contributions**
 
@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **React, Next.js, and Full-Stack Projects**
 
-- 💬 Ask me about **JavaScript, React, Node.js, Python, and Spring Boot**
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js and Next.js**
 
 - 📫 How to reach me **interviewkunal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kunalsa91770964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalsa91770964" height="30" width="40" /></a>
+<a href="https://x.com/KunalCodeQuest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalsa91770964" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarkar-kunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarkar-kunal" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kunalsarkar404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kunalsarkar404" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kunalsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunalsarkar" height="30" width="40" /></a>
